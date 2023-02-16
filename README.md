@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rodela</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
+<p align="left"> <img sce="https://media.licdn.com/dms/image/D5616AQGZ6HXLPj60pg/profile-displaybackgroundimage-shrink_350_1400/0/1676563957102?e=1681948800&v=beta&t=WBgKLi7MAUhZf3AyQ-t-Rw8e3Qcc_H_J0aWPg4TwHo8"/> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodelatareen&label=Profile%20views&color=0e75b6&style=flat" alt="rodelatareen" /> </p>
 
 <h3 align="left">Connect with me:</h3>
